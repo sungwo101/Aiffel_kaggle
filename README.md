@@ -1,2 +1,5 @@
-# Kaggle 필서
-## 1. titanic kaggle
+# Aiffel project
+
+## Datatone
+## Kaggle 필서
+
