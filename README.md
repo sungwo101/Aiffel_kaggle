@@ -1,5 +1,5 @@
 # Aiffel project
 
-## Datatone
-## Kaggle 필서
+- Datatone
+- Kaggle 필서
 
